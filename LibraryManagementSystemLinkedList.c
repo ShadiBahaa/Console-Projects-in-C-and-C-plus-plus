@@ -161,7 +161,7 @@ int main()
     Book first = {1,"shadi",1};
     insert(&head,first);
     printList(head);
-    Book second = {2,"reham",0};
+    Book second = {2,"shadi",0};
     insert(&head,second);
     printList(head);
     printf("%d\n",search(head,1));
