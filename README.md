@@ -7,4 +7,4 @@
 ### 4 - LibraryManagementSystemBasic (C): Library management system applied without using any features that facilitate the operations (like struct)
 ### 5 - LibraryManagementSystemLinkedList (C): Library management system applied based on single linked list
 ### 6 - TicTacToe (C++): Basic implementation without using functions of TicTacToe
-### 7 - sparseMatrix (C++): implementation of sparse matrix using double linked list. The matrix is based on sparse array (implemented with single linked list)
+### 7 - sparseMatrix (C++): implementation of sparse matrix using single linked list of sparse arrays (which are created as double linked lists)
