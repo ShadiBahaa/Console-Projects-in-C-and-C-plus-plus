@@ -1,5 +1,5 @@
 # Console-Projects-in-C-and-C-plus-plus
-## Mini ideas implemented in C and C++, and they are like a practice for getting familiar with the syntax and programming logic.
+## Ideas implemented in C and C++, and they are like a practice for getting familiar with the syntax and programming logic.
 ## The projects list:
 ### 1 - Askfmproject (C++) : a simulation for Askfm website system based on files
 ### 2 - HospitalSystemDynamicMemory (C): Hospital management system based on dynmaic memory allocation
